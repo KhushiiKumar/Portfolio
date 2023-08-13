@@ -1,1 +1,1 @@
-Click [here](khushikumar-portfolio.netlify.app) to view Portfolio.
+Click [here](https://khushikumar-portfolio.netlify.app/) to view Portfolio.
